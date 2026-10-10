@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abe-source/skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-facc15.svg" alt="MIT License"></a>
+  <a href="https://github.com/arminasbek/skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-facc15.svg" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/SKILL.md-open%20standard-facc15.svg" alt="SKILL.md open standard">
 </p>
 
@@ -24,7 +24,7 @@ A skill is a folder with a `SKILL.md` file: a description (so the agent knows wh
 Drop a skill's folder into your tool's skills directory:
 
 ```bash
-git clone https://github.com/abe-source/skills.git
+git clone https://github.com/arminasbek/skills.git
 cp -r skills/<skill-name> ~/.claude/skills/   # or ~/.codex/skills/, ~/.gemini/skills/, etc.
 ```
 
